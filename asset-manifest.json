@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gasto-semanal-app/static/css/main.a2370648.chunk.css",
+    "main.js": "/Gasto-semanal-app/static/js/main.cfbb0cb1.chunk.js",
+    "main.js.map": "/Gasto-semanal-app/static/js/main.cfbb0cb1.chunk.js.map",
+    "runtime-main.js": "/Gasto-semanal-app/static/js/runtime-main.bc013529.js",
+    "runtime-main.js.map": "/Gasto-semanal-app/static/js/runtime-main.bc013529.js.map",
+    "static/js/2.8a5a8018.chunk.js": "/Gasto-semanal-app/static/js/2.8a5a8018.chunk.js",
+    "static/js/2.8a5a8018.chunk.js.map": "/Gasto-semanal-app/static/js/2.8a5a8018.chunk.js.map",
+    "static/js/3.e14a793e.chunk.js": "/Gasto-semanal-app/static/js/3.e14a793e.chunk.js",
+    "static/js/3.e14a793e.chunk.js.map": "/Gasto-semanal-app/static/js/3.e14a793e.chunk.js.map",
+    "index.html": "/Gasto-semanal-app/index.html",
+    "static/css/main.a2370648.chunk.css.map": "/Gasto-semanal-app/static/css/main.a2370648.chunk.css.map",
+    "static/js/2.8a5a8018.chunk.js.LICENSE.txt": "/Gasto-semanal-app/static/js/2.8a5a8018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc013529.js",
+    "static/js/2.8a5a8018.chunk.js",
+    "static/css/main.a2370648.chunk.css",
+    "static/js/main.cfbb0cb1.chunk.js"
+  ]
+}

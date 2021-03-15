@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,WACI,YACJ,CAEA,SACI,eACJ,CACA,eACA,kBACA","file":"main.a2370648.chunk.css","sourcesContent":[".jumbotron{\r\n    height: 100vh;\r\n}\r\n\r\n.rounded{\r\n    margin-top: 30px;\r\n}\r\n.border-radius{\r\nborder-radius: 25px;\r\n}"]}
