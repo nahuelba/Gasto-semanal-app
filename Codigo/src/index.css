@@ -1,0 +1,10 @@
+.jumbotron{
+    height: 100vh;
+}
+
+.rounded{
+    margin-top: 30px;
+}
+.border-radius{
+border-radius: 25px;
+}
